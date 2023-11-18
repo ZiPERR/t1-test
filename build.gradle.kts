@@ -23,7 +23,7 @@ tasks.withType<JavaCompile> {
 }
 
 tasks.bootJar {
-	archiveBaseName.set("t1test")
+	archiveBaseName.set("t1-test")
 	archiveVersion.set("")
 }
 

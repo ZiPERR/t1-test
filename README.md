@@ -11,10 +11,10 @@
 
 Есть возможность создать jar файл и запустить его через командную строку:
 
-    git clone https://github.com/ZiPERRR/t1-test.git
-    cd t1test
+    git clone https://github.com/ZiPERR/t1-test.git
+    cd t1-test
     ./gradlew bootJar
-    java -jar t1test.jar
+    java -jar t1-test.jar
 
 Или есть возможность запустить напрямую из папки, используя:
 
